@@ -154,6 +154,10 @@ before giving an agent access. In particular:
   — Offline compatibility suite for CJK and Unicode payload normalization,
   including fixtures and a threat model.
 
+- [busminer/flop-passport](https://github.com/busminer/flop-passport)
+  — Native Android client for the Solana Mobile Seeker that derives a `did:key`
+  from one wallet signature, publishes it, and reads each write back to verify it.
+
 ## Monitoring and research
 
 - **[bdunn77/technocore-http-conformance](https://github.com/bdunn77/technocore-http-conformance)**
